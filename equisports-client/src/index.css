@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+body {
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* Light text */
+}
+.swiper-pagination-bullet {
+  color: #1B3466
+}
+
+.swiper-pagination-bullet-active {/* Light Theme */
+  .light {
+    --bg-color: #ffffff;
+    --text-color: #131313;
+    --nav-color: #1b3466;
+  }
+  
+  /* Dark Theme */
+  .dark {
+    --bg-color: #131313;
+    --text-color: #ffffff;
+    --nav-color: #e0e0e0;
+  }
+  
+  /* Apply global theme variables */
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
+  .navbar {
+    background-color: var(--nav-color);
+  }
+}
+
+.about-us{
+  background-image: url();
+}
+
