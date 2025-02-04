@@ -5,7 +5,7 @@ EquiSports is a full-stack e-commerce platform designed for sports enthusiasts t
 
 ## 🖼 Screenshots
 ### Homepage
-![Homepage Screenshot](https://i.ibb.co/Jw28ckt7/equisports-home.png)
+![Homepage Screenshot](https://i.ibb.co/h1c2tKt9/equi-home.png)
 
 ### Equipment Details Page
 ![Equipment Details Screenshot](https://i.ibb.co/GvvCNFpF/equi-Sports-equip-Details.png)
