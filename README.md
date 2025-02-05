@@ -13,6 +13,9 @@ EquiSports is a full-stack e-commerce platform designed for sports enthusiasts t
 ### Login Page
 ![Login Screenshot](https://i.ibb.co/JWrwxByS/equi-Sports-login.png)
 
+## 🔗 Live Demo
+[🌐 View Live Project: ](#) (https://equisports-13647.web.app/)
+
 ## 🛠 Technologies Used
 - **Frontend**: HTML, CSS, React.js, Tailwind CSS, React Router
 - **Backend**: Node.js, Express.js, MongoDB
